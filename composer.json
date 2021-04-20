@@ -1,0 +1,18 @@
+{
+    "name": "lambdasolutions/local_lambda_time_tracker",
+    "description": "Lambda Solutions Time Tracker Local Plugin",
+    "license": "MIT",
+    "type": "moodle-local",
+    "authors": [
+        {
+            "name": "Branislav Papulin",
+            "email": "branislav.papulin@lambdasolutions.net"
+        }
+    ],
+    "extra": {
+        "installer-name":"lambda_time_tracker"
+    },
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
